@@ -1,6 +1,6 @@
 using System;
 
-namespace UntitledCubeGame.ModApi.Core
+namespace ModApi.Core
 {
     [AttributeUsage(AttributeTargets.Class, Inherited = false)]
     public class ModEntryPointAttribute : Attribute

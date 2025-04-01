@@ -1,4 +1,4 @@
-namespace UntitledCubeGame.ModApi.Core
+namespace ModApi.Core
 {
     public class ModKey
     {
