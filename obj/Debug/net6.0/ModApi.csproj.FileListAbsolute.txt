@@ -1,0 +1,11 @@
+C:\Users\Josh\Everything\Files\projects\modapi\bin\Debug\net6.0\ModApi.deps.json
+C:\Users\Josh\Everything\Files\projects\modapi\bin\Debug\net6.0\ModApi.dll
+C:\Users\Josh\Everything\Files\projects\modapi\bin\Debug\net6.0\ModApi.pdb
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.AssemblyInfoInputs.cache
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.AssemblyInfo.cs
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.dll
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\refint\ModApi.dll
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ModApi.pdb
+C:\Users\Josh\Everything\Files\projects\modapi\obj\Debug\net6.0\ref\ModApi.dll
